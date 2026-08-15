@@ -26,7 +26,7 @@ A 2D battle royale-style game built with **Python and Pygame**. Fight against AI
 * Fullscreen mode
 * Adjustable volume and mouse sensitivity
 * Multiple resolution options, including:
-
+ 
   * 720p
   * 1080p
   * 1440p
